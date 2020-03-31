@@ -103,7 +103,7 @@ class YourBot(telepot.Bot):
                             memtotal + "\n" + \
                             memavail + "\n" + \
                             memuseperc + "\n" + \
-                            diskused + "\n\n" + \
+                            diskused + "\n" + \
                             cpu + "\n" + \
                             pidsreply
                     bot.sendMessage(chat_id, reply, disable_web_page_preview=True)
