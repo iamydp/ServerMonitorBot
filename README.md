@@ -1,6 +1,6 @@
 # Server Monitor Bot
 
-原项目详见[链接](https://github.com/iamydp/ServerStatsBot)以及原fork，~~您正在看的这个repo某种意义上属于二开版，Working in progress之后是原readme的完整翻译，也可以当做部署教程，实际上，这个repo只是比原repo维护+新功能+汉化~~我出来单干了。以下是原作readme翻译，本repo同样适用。
+原项目详见[链接](https://github.com/iamydp/ServerStatsBot)，~~您正在看的这个repo某种意义上属于二开版，Working in progress之后是原readme的完整翻译，也可以当做部署教程，实际上，这个repo只是比原repo维护+新功能+汉化~~  我出来单干了。以下是[原作](https://github.com/geekbeard/ServerStatsBot)readme翻译，本repo同样适用。
 
 2020-3-31新增
 
