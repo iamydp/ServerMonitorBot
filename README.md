@@ -1,6 +1,6 @@
-# Server Manager Bot
+# Server Monitor Bot
 
-原项目详见fork源，您正在看的这个repo某种意义上属于二开版，Working in progress之后是原readme的完整翻译，也可以当做部署教程，实际上，这个repo只是比原repo维护+新功能+汉化。
+原项目详见[链接](https://github.com/iamydp/ServerStatsBot)，您正在看的这个repo某种意义上属于二开版，Working in progress之后是原readme的完整翻译，也可以当做部署教程，实际上，这个repo只是比原repo维护+新功能+汉化。
 
 2020-3-31新增
 
