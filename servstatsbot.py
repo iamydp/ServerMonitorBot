@@ -81,6 +81,7 @@ class YourBot(telepot.Bot):
                     memavail = "可用内存: %.2f GB" % (memory.available / 1000000000)
                     memuseperc = "使用内存: " + str(memory.percent) + " %"
                     diskused = "磁盘占用: " + str(disk.percent) + " %"
+                    cpu = "当前CPU占用率" + str(psutil.cpu_percent(interval=1)) + "%"
                     pids = psutil.pids()
                     pidsreply = ''
                     procs = {}
@@ -103,6 +104,7 @@ class YourBot(telepot.Bot):
                             memavail + "\n" + \
                             memuseperc + "\n" + \
                             diskused + "\n\n" + \
+                            cpu + "\n" + \
                             pidsreply
                     bot.sendMessage(chat_id, reply, disable_web_page_preview=True)
                 elif msg['text'] == "help" or msg['text'] == "/help" or msg['text'] == "/start":
