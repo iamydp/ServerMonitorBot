@@ -1,6 +1,6 @@
 # Server Monitor Bot
 
-原项目详见[链接](https://github.com/iamydp/ServerStatsBot)，您正在看的这个repo某种意义上属于二开版，Working in progress之后是原readme的完整翻译，也可以当做部署教程，实际上，这个repo只是比原repo维护+新功能+汉化。
+原项目详见[链接](https://github.com/iamydp/ServerStatsBot)以及原fork，~~您正在看的这个repo某种意义上属于二开版，Working in progress之后是原readme的完整翻译，也可以当做部署教程，实际上，这个repo只是比原repo维护+新功能+汉化~~我出来单干了。以下是原作readme翻译，本repo同样适用。
 
 2020-3-31新增
 
@@ -15,8 +15,10 @@ Working in Progress
 * 当前网速
 * 磁盘使用详细情况
 * 重启/掉进程后上线提示
+* CPU使用情况
 
-欢迎与我或原作者（找不到人了）发邮件探讨/提issue！
+欢迎与我或[原作者](https://github.com/iamydp/ServerStatsBot)发邮件探讨/提issue。
+本repo仍将不会改变原有的写作风格/主旨，并且是非盈利项目。
 
 功能：
 * 命令
@@ -65,7 +67,7 @@ Working in Progress
        * 已经加入`.gitignore`豪华套餐,所以谁的key/token都不会提交上来
     * 将`telegrambot`后字符串换成自己的token
        * 如: `telegrambot = "000000000:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-    * 编者按：原readme中的确是这样写的，但作者更新的时候可能忘了改了，这里直接vim编辑tokens.py_example再mv重命名去掉_example就可以了。
+    * 编者按：原readme中的确是这样写的，但原作者更新的时候可能忘了改了，这里直接vim编辑tokens.py_example再mv重命名去掉_example就可以了。
      
 ## 开始运行
 
@@ -98,16 +100,11 @@ Working in Progress
  
  真心希望看到这个项目能够快速发展起来:)
  
-译者按：这些话也是作者说的,可是他已经4年没有更新了,会不会...
+译者按：这些话也是原作者说的,可是他已经4年没有更新了,会不会...
 
  
  
 # 其他的bot项目
  
 ## Alfred
-[http://alfredthebot.com](http://alfredthebot.com)
-
-译者按：已404
- 
- 
- GB
+[http://alfredthebot.com](http://alfredthebot.com)译者按：已404
