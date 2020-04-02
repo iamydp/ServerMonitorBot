@@ -2,9 +2,12 @@
 
 原项目详见[链接](https://github.com/iamydp/ServerStatsBot)，~~您正在看的这个repo某种意义上属于二开版，Working in progress之后是原readme的完整翻译，也可以当做部署教程，实际上，这个repo只是比原repo维护+新功能+汉化~~  我出来单干了。以下是[原作](https://github.com/geekbeard/ServerStatsBot)readme翻译，本repo同样适用。
 
-2020-3-31新增
+Changelog
 
-输入/start或/help或help时回复所有可用的命令。（虽然在向@botfather添加命令过后这个显得有点多余）
+输入'/start'或'/help'或'help'时回复所有可用的命令。（虽然在向@botfather添加命令过后这个显得有点多余）
+
+输入'/stats'时增加cpu占用率情况
+
 
 Known Issue
 * 机器人新上线一段时间内绘制图标x轴为负数，过一段时间后恢复正常。
@@ -15,7 +18,7 @@ Working in Progress
 * 当前网速
 * 磁盘使用详细情况
 * 重启/掉进程后上线提示
-* CPU使用情况
+* ~~CPU使用情况~~
 
 欢迎与我或[原作者](https://github.com/iamydp/ServerStatsBot)发邮件探讨/提issue。
 本repo仍将不会改变原有的写作风格/主旨，并且是非盈利项目。
