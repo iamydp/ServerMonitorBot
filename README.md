@@ -1,6 +1,6 @@
 # Server Monitor Bot
 
-原项目详见[链接](https://github.com/iamydp/ServerStatsBot)，~~您正在看的这个repo某种意义上属于二开版，Working in progress之后是原readme的完整翻译，也可以当做部署教程，实际上，这个repo只是比原repo维护+新功能+汉化~~  我出来单干了。以下是[原作](https://github.com/geekbeard/ServerStatsBot)readme翻译，本repo同样适用。
+由此迁移[链接](https://github.com/iamydp/ServerStatsBot)
 
 Changelog
 
@@ -91,10 +91,6 @@ Working in Progress
 在`tokens.py`中设定`adminchatid`变量为chat_id(如果您的工具人是个公交车,参照如下方法).
 * `adminchatid = [443355]`
 * `adminchatid = [443355, 55667788, 99884433]`
-
-之后我将会重新编写这块的代码
-
-译者按：这句话是原作者写的,我没说过        
  
 # 欢迎一键三连 XD
  我在十分钟之内拼凑出这个代码,之后又花了一点时间使之成.我觉得这个bot是个很好的想法,并且阅读这段话当中的某些人会非常喜欢这个repo.所以请随便fork,pull,提交新功能!
@@ -102,12 +98,4 @@ Working in Progress
  可以给你contributors access哦!笔芯
  
  真心希望看到这个项目能够快速发展起来:)
- 
-译者按：这些话也是原作者说的,可是他已经4年没有更新了,会不会...
 
- 
- 
-# 其他的bot项目
- 
-## Alfred
-[http://alfredthebot.com](http://alfredthebot.com)译者按：已404
