@@ -20,8 +20,7 @@ Working in Progress
 * 重启/掉进程后上线提示
 * ~~CPU使用情况~~
 
-欢迎与我或[原作者](https://github.com/iamydp/ServerStatsBot)发邮件探讨/提issue。
-本repo仍将不会改变原有的写作风格/主旨，并且是非盈利项目。
+欢迎发邮件探讨/提issue。关于如何新建bot及后续调整参见[这篇文章](https://www.iamydp.cn/archives/56.html)
 
 功能：
 * 命令
@@ -91,11 +90,3 @@ Working in Progress
 在`tokens.py`中设定`adminchatid`变量为chat_id(如果您的工具人是个公交车,参照如下方法).
 * `adminchatid = [443355]`
 * `adminchatid = [443355, 55667788, 99884433]`
- 
-# 欢迎一键三连 XD
- 我在十分钟之内拼凑出这个代码,之后又花了一点时间使之成.我觉得这个bot是个很好的想法,并且阅读这段话当中的某些人会非常喜欢这个repo.所以请随便fork,pull,提交新功能!
- 
- 可以给你contributors access哦!笔芯
- 
- 真心希望看到这个项目能够快速发展起来:)
-
